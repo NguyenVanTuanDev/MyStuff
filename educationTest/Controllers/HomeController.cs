@@ -11,6 +11,7 @@ namespace educationTest.Controllers
         public ActionResult Index()
         {
             return View();
+            // đã thực hiện được chuyển dữ liệu lên server
         }
 
         public ActionResult About()
